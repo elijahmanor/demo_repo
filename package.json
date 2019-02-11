@@ -1,6 +1,6 @@
 {
   "name": "demo_repo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "demo repo for tag-release",
   "main": "index.js",
   "scripts": {
