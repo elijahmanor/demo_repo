@@ -1,0 +1,19 @@
+{
+  "name": "demo_repo",
+  "version": "1.0.0",
+  "description": "demo repo for tag-release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertReaves/demo_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertReaves/demo_repo/issues"
+  },
+  "homepage": "https://github.com/RobertReaves/demo_repo#readme"
+}
