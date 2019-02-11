@@ -1,5 +1,9 @@
 ## 1.x
 
+### 1.1.0
+
+* another
+
 ### 1.0.0
 
 * added package.json
@@ -8,3 +12,4 @@
 * Initial commit
 
 some change
+another
