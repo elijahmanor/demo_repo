@@ -1,3 +1,9 @@
+## 2.x
+
+### 2.0.0
+
+* bump
+
 ## 1.x
 
 ### 1.1.0
@@ -13,3 +19,4 @@
 
 some change
 another
+bump
