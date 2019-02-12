@@ -1,3 +1,9 @@
+## 7.x
+
+### 7.0.0
+
+* new
+
 ## 6.x
 
 ### 6.0.0
@@ -48,3 +54,4 @@ bump
 one more
 grr
 bump
+new
