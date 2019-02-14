@@ -1,5 +1,9 @@
 ## 7.x
 
+### 7.2.0
+
+* Added tests deps in package.json
+
 ### 7.1.0
 
 * made repo private
