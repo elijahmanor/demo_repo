@@ -1,6 +1,7 @@
 {
   "name": "demo_repo",
-  "version": "7.0.0",
+  "private": true,
+  "version": "7.1.0",
   "description": "demo repo for tag-release",
   "main": "index.js",
   "scripts": {
