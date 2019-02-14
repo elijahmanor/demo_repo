@@ -1,3 +1,9 @@
+## 8.x
+
+### 8.0.0
+
+* added catch-tag-release to deps in package.json
+
 ## 7.x
 
 ### 7.2.0
