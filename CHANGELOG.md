@@ -1,5 +1,9 @@
 ## 7.x
 
+### 7.1.0
+
+* made repo private
+
 ### 7.0.0
 
 * new
